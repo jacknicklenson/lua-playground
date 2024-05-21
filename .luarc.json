@@ -1,0 +1,9 @@
+{
+  "runtime.version": "Lua 5.4",
+  "Lua.color.mode": "SemanticEnhanced",
+  "Lua.hint.setType": true,
+  "Lua.IntelliSense.traceBeSetted": true,
+  "Lua.IntelliSense.traceFieldInject": true,
+  "Lua.IntelliSense.traceLocalSet": true,
+  "Lua.IntelliSense.traceReturn": true
+}
